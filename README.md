@@ -1,5 +1,6 @@
-# Heart-Disease-Prediction-AI-Proj
+# Heart-Disease-Prediction-using-Machine-Learning
 
-SEM-6 BTECH CSE project for Artificial Intelligence:
+Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives.This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
 
-A heart disease prediction model that works on the principle of logistic regression and random forest.
+Machine Learning algorithms used:
+      Logistic Regression (Scikit-learn)
